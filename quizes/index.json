@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Syntax, Functions and Statements",
+        "id": "01"
+    },
+    {
+        "name": "Arrays and Matrices",
+        "id": "02"
+    },
+    {
+        "name": "Objects and Composition",
+        "id": "03"
+    },
+    {
+        "name": "DOM Introduction",
+        "id": "04"
+    },
+    {
+        "name": "DOM Manipulation and Events",
+        "id": "05"
+    },
+    {
+        "name": "Advanced Functions",
+        "id": "06"
+    },
+    {
+        "name": "Unit Testing and Error Handling",
+        "id": "07"
+    },
+    {
+        "name": "Classes and Attributes",
+        "id": "08"
+    },
+    {
+        "name": "Prototypes and Inheritance",
+        "id": "09"
+    }
+]
