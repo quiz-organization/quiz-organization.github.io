@@ -1,0 +1,45 @@
+{
+    "name": "JS Application",
+    "questions": [
+        {
+            "text": "От къде идва акронима CRUD?",
+            "answers": [
+                {
+                    "text": "Create, Read, Update, Delete",
+                    "correct": true
+                },
+                {
+                    "text": "Clear, Rewrite, Update, Delete",
+                    "correct": false
+                },
+                {
+                    "text": "Cut, Read, Update, Delete",
+                    "correct": false
+                },
+                {
+                    "text": "Няма интерпретация",
+                    "correct": false
+                },
+                {
+                    "text": "Clear, Read, Update, Delete",
+                    "correct": false
+                }
+            ],
+            "dontRandomize": false
+        },
+        {
+            "text": "В нерелационните бази данни е допустимо да има повтарящи се записи.",
+            "answers": [
+                {
+                    "text": "Да",
+                    "correct": true
+                },
+                {
+                    "text": "Не",
+                    "correct": false
+                }
+            ],
+            "dontRandomize": true
+        }
+    ]
+}
